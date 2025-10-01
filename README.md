@@ -9,7 +9,7 @@ A simple **Tic Tac Toe** game built using **HTML, CSS, and JavaScript**. Play ag
 
 ## 📸 Demo
 
-![Game Screenshot](screenshot.png) 
+![Game Screenshot](screenshot(71).png) 
 
 You can try the live version here: [Play Now  https://rishi001yadav.github.io/Tic-Tac-Toe-Game/]) 
 
