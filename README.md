@@ -28,7 +28,7 @@ You can try the live version here: [Play Now  https://rishi001yadav.github.io/Ti
 
 - HTML5
 - CSS3
-- JavaScript (Vanilla)
+- JavaScript 
 
 ---
 
